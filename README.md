@@ -7,6 +7,6 @@ chmod +x CQUPT_route.sh
 ```
 最后执行脚本即可
 ```
-.CQUPT_route.sh/
+./CQUPT_route.sh
 ```
 注意：当你的网关发生了变化时，可能是从一个宿舍(楼栋)搬到另一个宿舍(楼栋)，需再次执行一次。
